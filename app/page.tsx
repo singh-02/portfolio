@@ -69,7 +69,7 @@ export default function Home() {
             </a>
 
             <a
-              href="/__Resume.pdf"
+              href="/Resume.pdf"
               target="_blank"
               className="rounded-full border border-zinc-300 bg-white px-7 py-4 font-medium transition hover:-translate-y-1 hover:border-zinc-500"
             >
