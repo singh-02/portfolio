@@ -433,7 +433,7 @@ export default function Home() {
               </div>
 
               <p className="text-zinc-500">
-                2026 – Present
+                Apr 2024 – Present
               </p>
 
               <p className="max-w-2xl leading-7 text-zinc-600">
@@ -454,7 +454,7 @@ export default function Home() {
   </div>
 
   <p className="text-zinc-500">
-    2024 – 2025
+     Sept 2024 – Apr 2025
   </p>
 
   <p className="max-w-2xl leading-7 text-zinc-600">
@@ -475,7 +475,7 @@ export default function Home() {
               </div>
 
               <p className="text-zinc-500">
-                2021 – 2023
+               Oct 2021 – Apr 2023
               </p>
 
               <p className="max-w-2xl leading-7 text-zinc-600">
