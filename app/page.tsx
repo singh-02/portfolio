@@ -398,6 +398,29 @@ export default function Home() {
 
           <div>
 
+              <div className="grid gap-4 border-t border-zinc-300 py-9 md:grid-cols-[1fr_1fr_2fr]">
+  <div>
+    <h3 className="text-xl font-medium">
+      Technical Advisor
+    </h3>
+
+    <p className="mt-1 text-zinc-500">
+      Concentrix
+    </p>
+  </div>
+
+  <p className="text-zinc-500">
+    Sep 2026 – Present
+  </p>
+
+  <p className="max-w-2xl leading-7 text-zinc-600">
+    Provide technical support to customers by troubleshooting hardware,
+    software, connectivity, and account-related issues while delivering
+    effective solutions and a positive customer experience.
+  </p>
+</div>
+
+
             <div className="grid gap-4 border-t border-zinc-300 py-9 md:grid-cols-[1fr_1fr_2fr]">
               <div>
                 <h3 className="text-xl font-medium">
