@@ -463,7 +463,7 @@ export default function Home() {
   </p>
 </div>
 
-            <div className="grid gap-4 border-t border-b border-zinc-300 py-9 md:grid-cols-[1fr_1fr_2fr]">
+          <div className="grid gap-4 border-t border-b border-zinc-300 py-9 md:grid-cols-[1fr_1fr_2fr]">
               <div>
                 <h3 className="text-xl font-medium">
                   Student IT Technician
